@@ -28,12 +28,6 @@ Hệ thống quản lý sách được xây dựng bằng Laravel, hỗ trợ ch
    - Quản lý tác giả (thêm, sửa, xóa)
    - Quản lý người dùng
 
-## Các lệnh hữu ích
-
-- **Thiết lập ban đầu:** `php artisan app:setup` (thiết lập database và tạo admin mới)
-- **Tạo admin mới:** `php artisan create:admin` (thêm admin khi ứng dụng đã hoạt động)
-- **Reset toàn bộ ứng dụng:** `php artisan app:reset` (xóa dữ liệu và cài đặt lại)
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
