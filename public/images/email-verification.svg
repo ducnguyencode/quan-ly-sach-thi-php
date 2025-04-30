@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="email-verification" fill="none" stroke="none">
+        <path d="M460.841,136.058h-26.812v-23.419C434.029,50.411,383.619,0,321.39,0h-130.78 c-62.229,0-112.639,50.411-112.639,112.639v23.419H51.159c-14.627,0-26.5,11.873-26.5,26.5v322.942c0,14.627,11.873,26.5,26.5,26.5 h409.682c14.627,0,26.5-11.873,26.5-26.5V162.558C487.341,147.931,475.468,136.058,460.841,136.058z" fill="#6f42c1" opacity="0.2" />
+        <circle cx="256" cy="303" r="130" fill="#007bff" opacity="0.1" />
+        <path d="M394.789,148.011H117.211c-8.177,0-14.813,6.636-14.813,14.813v186.361 c0,8.177,6.636,14.813,14.813,14.813h277.578c8.177,0,14.813-6.636,14.813-14.813V162.824 C409.602,154.648,402.966,148.011,394.789,148.011z" fill="#FFFFFF" stroke="#007bff" stroke-width="8" />
+        <path d="M255.997,290.241L117.211,162.824h277.578L255.997,290.241z" fill="#FFFFFF" stroke="#007bff" stroke-width="8" />
+        <path d="M373.638,214.943v-52.119l-117.641,94.842l-117.633-94.842v52.119" stroke="#007bff" stroke-width="8" fill="none" />
+        <circle cx="350" cy="320" r="70" fill="#FFFFFF" stroke="#007bff" stroke-width="8" />
+        <path d="M326,320l15,15l30-30" stroke="#007bff" stroke-width="12" stroke-linecap="round" fill="none" />
+    </g>
+</svg>
