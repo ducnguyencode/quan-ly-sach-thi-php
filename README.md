@@ -2,34 +2,15 @@
 
 Hệ thống quản lý sách được xây dựng bằng Laravel, hỗ trợ chức năng đánh giá sách, sắp xếp theo tên, số lượng đánh giá và số sao. Hệ thống có phân quyền admin và người dùng thường.
 
-## Cài đặt
+## Lưu ý
 
-1. Clone repository
-2. Cài đặt các dependency:
-```
-composer install
-```
+1. Tài khoản tạo đầu tiên là tài khoản admin
 
-3. Copy file `.env.example` thành `.env` và cấu hình database
-```
-cp .env.example .env
-```
-
-4. Chạy thiết lập ban đầu (migration và tạo tài khoản admin):
-```
-php artisan app:setup
-```
-
-> **Lưu ý:** Lệnh `app:setup` sẽ thiết lập database và yêu cầu bạn nhập thông tin cho tài khoản admin mới theo từng bước rõ ràng.
 
 ## Tài khoản Admin
-
-Khi chạy lệnh `app:setup`, bạn sẽ được yêu cầu nhập các thông tin sau để tạo tài khoản admin:
 - Tên admin
 - Email admin
 - Mật khẩu admin (tối thiểu 8 ký tự)
-
-Sau đó bạn có thể sử dụng thông tin này để đăng nhập vào hệ thống.
 
 ## Chức năng chính
 
